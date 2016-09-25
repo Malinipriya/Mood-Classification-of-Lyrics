@@ -1,0 +1,1 @@
+This evolutionary approach explores the use of natural language processing techniques and SentiWordNet to extract the sentiment features of the words in the song lyrics. Once the sentiment features are extracted, a genetic algorithm namely, k-means clustering has been applied to predict the mood of the song as angry, happy, love or sad.
